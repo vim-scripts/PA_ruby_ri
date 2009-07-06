@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2706
+
+ So, you are working with any ruby-like document(.rb, .rhtml, .rjs, etc) and need get to know some information regarding any ruby entity.
+ In normal mode, put cursor on the word and press ,ri buttons. The ruby ri documentation will appear in command screen.
+ Or, in visual mode, select needed word and press ,ri buttons. The ruby ri documentation will appear in command screen.
+ That's all.
+
